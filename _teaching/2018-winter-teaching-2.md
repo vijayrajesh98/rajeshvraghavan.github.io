@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "COMM 693 Seminar in Research Methodology"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+type: "Seminar"
+permalink: /teaching/2018-winter-teaching-2
+venue: "UBC Sauder"
+date: 2018-09-17
 location: "City, Country"
 ---
 
