@@ -16,5 +16,5 @@ Required
 
 Optional
 ======
-1. Liran Einav and Jonathan Levin [Economics in the age of big data](/files/Einav and Levin Science 2014.pdf)
+1. Liran Einav and Jonathan Levin [Economics in the age of big data](/files/CodeAndData.pdf)
 
