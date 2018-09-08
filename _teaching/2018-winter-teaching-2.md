@@ -10,11 +10,11 @@ location: "City, Country"
 
 Here is the study list for the session.
 
-Heading 1
+Required
 ======
+1. Matthew Gentzkow and Jesse M. Shapiro [Code and Data for the Social Sciences: A Practitioner's Guide](/files/CodeAndData.pdf)
 
-Heading 2
+Optional
 ======
+1. Liran Einav and Jonathan Levin [Economics in the age of big data]
 
-Heading 3
-======
