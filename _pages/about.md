@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-**Assistant Professor
-University of British Columbia
-Sauder School of Business**
+**Assistant Professor**
+**University of British Columbia**
+**Sauder School of Business**
 
 **Research Interests:** the relationship between economic information and financial reporting transparency, accounting and risk management in financial institutions, regulation, corporate governance and performance measurement; and the applications of machine learning.
 
