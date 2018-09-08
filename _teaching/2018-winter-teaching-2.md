@@ -8,7 +8,7 @@ date: 2018-09-17
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Here is the study list for the course.
 
 Heading 1
 ======
