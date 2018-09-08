@@ -16,8 +16,6 @@ redirect_from:
 
 My personal [website](http://rajeshvraghavan.com/).
 
-[Code and Data for the Social Sciences: A Practitioner's Guide](/files/CodeAndData.pdf)
- 
 
 # Note on this website
 
