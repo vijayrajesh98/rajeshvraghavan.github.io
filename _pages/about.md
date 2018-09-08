@@ -14,7 +14,7 @@ redirect_from:
 
 **Research Interests:** the relationship between economic information and financial reporting transparency, accounting and risk management in financial institutions, regulation, corporate governance and performance measurement; and the applications of machine learning.
 
-My personal website is [here](http://rajeshvraghavan.com/)
+My personal [website](http://rajeshvraghavan.com/).
 
 # Note on this website
 
