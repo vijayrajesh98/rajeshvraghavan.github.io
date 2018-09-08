@@ -8,6 +8,8 @@ date: 2018-09-17
 location: "City, Country"
 ---
 
+
+
 Here is the study list for the session.
 
 Required
