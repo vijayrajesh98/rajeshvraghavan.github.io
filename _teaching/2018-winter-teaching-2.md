@@ -18,3 +18,4 @@ Optional
 ======
 1. Liran Einav and Jonathan Levin [Economics in the age of big data](/files/EinavandLevinScience2014.pdf)
 
+2. Introduction section of [Recognizing Loan Losses in Banks](/files/Vijayaraghavan2018UBCBanksandLLA.pdf)
