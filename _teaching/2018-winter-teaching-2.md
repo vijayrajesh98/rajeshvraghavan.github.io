@@ -12,10 +12,10 @@ Here is the study list for the session on September 17, 2018.
 
 Required
 ======
-1. Matthew Gentzkow and Jesse M. Shapiro [Code and Data for the Social Sciences: A Practitioner's Guide](/files/CodeAndData.pdf)
+1. Matthew Gentzkow and Jesse M. Shapiro [Code and Data for the Social Sciences: A Practitioner's Guide](https://github.com/vijayrajesh98/rajeshvraghavan.github.io/blob/master/files/CodeAndData.pdf)
 
 Optional
 ======
-1. Liran Einav and Jonathan Levin [Economics in the age of big data](/files/EinavandLevinScience2014.pdf)
+1. Liran Einav and Jonathan Levin [Economics in the age of big data](https://github.com/vijayrajesh98/rajeshvraghavan.github.io/blob/master/files/EinavandLevinScience2014.pdf)
 
-2. *Introduction* section of [Recognizing Loan Losses in Banks](/files/Vijayaraghavan2018UBCBanksandLLA.pdf)
+2. *Introduction* section of [Recognizing Loan Losses in Banks](https://github.com/vijayrajesh98/rajeshvraghavan.github.io/blob/master/files/Vijayaraghavan2018UBCBanksandLLA.pdf)
