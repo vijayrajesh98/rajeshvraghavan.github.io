@@ -17,5 +17,3 @@ Required
 Optional
 ======
 1. Liran Einav and Jonathan Levin [Economics in the age of big data](https://github.com/vijayrajesh98/rajeshvraghavan.github.io/blob/master/files/EinavandLevinScience2014.pdf)
-
-2. *Introduction* section of [Recognizing Loan Losses in Banks](https://github.com/vijayrajesh98/rajeshvraghavan.github.io/blob/master/files/Vijayaraghavan2018UBCBanksandLLA.pdf)
